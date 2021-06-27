@@ -11,7 +11,7 @@ module.exports = {
       description: 'Portfolio of Silloi',
     },
     '/ja/': {
-      lang: 'ja_JP',
+      lang: 'ja-JP',
       title: 'Portfolio',
       description: 'Portfolio of Silloi',
     },
