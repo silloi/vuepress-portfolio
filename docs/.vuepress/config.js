@@ -23,6 +23,13 @@ module.exports = {
       },
       '/ja/': {
         selectLanguageName: '日本語',
+        navbar: [
+          // NavbarItem
+          {
+            text: '履歴書',
+            link: '/ja/resume/',
+          },
+        ],
       },
     },
     navbar: [
@@ -38,5 +45,7 @@ module.exports = {
       // },
     ],
     logo: '/images/logo.svg',
+    sidebarDepth: 1,
+    repo: 'silloi/vuepress-portfolio',
   },
 }
