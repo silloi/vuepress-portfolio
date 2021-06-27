@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-portfolio",
+  "version": "0.0.1",
+  "description": "Portfolio of Silloi",
+  "repository": "https://github.com/silloi/vuepress-portfolio",
+  "main": "index.js",
+  "authors": {
+    "name": "Sillos Silloi",
+    "email": "silloi1993@gmail.com"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.20"
+  }
+}
