@@ -37,6 +37,6 @@ module.exports = {
       //   children: ['/group/foo.md', '/group/bar.md'],
       // },
     ],
-    logo: 'https://vuejs.org/images/logo.png',
+    logo: '/images/logo.svg',
   },
 }

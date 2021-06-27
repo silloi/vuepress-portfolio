@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: /images/symbol.svg
+heroImage: /images/logo.svg
 actions:
   - text: Resume
     link: /resume/

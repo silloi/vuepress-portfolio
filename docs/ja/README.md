@@ -1,7 +1,7 @@
 ---
 home: true
 title: ホーム
-heroImage: /images/symbol.svg
+heroImage: /images/logo.svg
 actions:
   - text: 履歴書
     link: /resume/
