@@ -1,0 +1,16 @@
+{
+  "name": "Portfolio",
+  "short_name": "Portfolio",
+  "description": "Portfolio of Silloi",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3eaf7c",
+  "icons": [
+    {
+      "src": "/images/logo.svg",
+      "sizes": "192x192 384x384",
+      "type": "image/svg"
+    }
+  ]
+}

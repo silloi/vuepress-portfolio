@@ -2,6 +2,10 @@ module.exports = {
   lang: 'en-US',
   title: 'Portfolio',
   description: 'Portfolio of silloi',
+  head: [
+    ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
+    ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+  ],
   locales: {
     // The key is the path for the locale to be nested under.
     // As a special case, the default locale can use '/' as its path.
@@ -56,4 +60,12 @@ module.exports = {
     sidebarDepth: 1,
     repo: 'silloi/vuepress-portfolio',
   },
+  plugins: [
+    [
+      '@vuepress/pwa',
+      {
+        skipWaiting: true,
+      },
+    ],
+  ],
 }
