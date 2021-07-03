@@ -20,6 +20,22 @@ module.exports = {
     locales: {
       '/': {
         selectLanguageName: 'English',
+        navbar: [
+          // NavbarItem
+          {
+            text: 'Resume',
+            link: '/resume/',
+          },
+          {
+            text: 'Works',
+            link: '/works/',
+          },
+          // // NavbarGroup
+          // {
+          //   text: 'Group',
+          //   children: ['/group/foo.md', '/group/bar.md'],
+          // },
+        ],
       },
       '/ja/': {
         selectLanguageName: '日本語',
@@ -29,21 +45,13 @@ module.exports = {
             text: '履歴書',
             link: '/ja/resume/',
           },
+          {
+            text: '著作物',
+            link: '/ja/works/',
+          },
         ],
       },
     },
-    navbar: [
-      // NavbarItem
-      {
-        text: 'Resume',
-        link: '/resume/',
-      },
-      // // NavbarGroup
-      // {
-      //   text: 'Group',
-      //   children: ['/group/foo.md', '/group/bar.md'],
-      // },
-    ],
     logo: '/images/logo.svg',
     sidebarDepth: 1,
     repo: 'silloi/vuepress-portfolio',
