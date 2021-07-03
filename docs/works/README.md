@@ -18,6 +18,18 @@
 
 [https://www.100日記念日.com/](https://www.xn--100-513f45xba1895d.com/)
 
+## Gengou Dearby (2019)
+
+![Gengou Dearby](/images/works/gengou-dearby.png)
+
+[http://gengou-roulette.herokuapp.com/](http://gengou-roulette.herokuapp.com/)
+
+## VR Mani Wheel (2019)
+
+![VR Mani Wheel](/images/works/vr-mani-wheel.gif)
+
+[https://silloi.github.io/mani/](https://silloi.github.io/mani/)
+
 ## Drinkup Bot (2018)
 
 ![Drinkup Bot](/images/works/drinkup-bot.jpg)

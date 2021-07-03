@@ -6,8 +6,8 @@ actions:
   - text: 履歴書
     link: /resume/
     type: primary
-  - text: Introduction
-    link: /guide/
+  - text: 著作物
+    link: /works/
     type: secondary
 features:
   - title: 工学

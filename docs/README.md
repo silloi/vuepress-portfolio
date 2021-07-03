@@ -6,8 +6,8 @@ actions:
   - text: Resume
     link: /resume/
     type: primary
-  - text: Introduction
-    link: /guide/
+  - text: Works
+    link: /works/
     type: secondary
 features:
   - title: Engineering

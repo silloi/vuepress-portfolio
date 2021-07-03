@@ -18,6 +18,18 @@
 
 [https://www.100日記念日.com/](https://www.xn--100-513f45xba1895d.com/)
 
+## 元号ルーレット（2019）
+
+![Gengou Dearby](/images/works/gengou-dearby.png)
+
+[http://gengou-roulette.herokuapp.com/](http://gengou-roulette.herokuapp.com/)
+
+## VRマニ車（2019）
+
+![VR Mani Wheel](/images/works/vr-mani-wheel.gif)
+
+[https://silloi.github.io/mani/](https://silloi.github.io/mani/)
+
 ## 飲み会提案bot（2018）
 
 ![Drinkup Bot](/images/works/drinkup-bot.jpg)
