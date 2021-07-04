@@ -2,6 +2,8 @@
 
 ## Profile
 
+![Profile](/images/profile.jpg)
+
 I am a Web Application Engineer, interested in efficient procedure and well-designed architecture. I have worked as a frontend engineer, committing development of some web applications. Lately I anticipate the potential of quantum computing, so I study quantum mechanics and other physics.
 
 ## Experience
