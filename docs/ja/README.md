@@ -4,10 +4,10 @@ title: ホーム
 heroImage: /images/logo.svg
 actions:
   - text: 履歴書
-    link: /resume/
+    link: /ja/resume/
     type: primary
   - text: 著作物
-    link: /works/
+    link: /ja/works/
     type: secondary
 features:
   - title: 工学
