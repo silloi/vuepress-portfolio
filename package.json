@@ -1,11 +1,11 @@
 {
   "name": "vuepress-portfolio",
   "version": "0.0.1",
-  "description": "Portfolio of Silloi",
+  "description": "Portfolio of NISHIYAMA Yudai",
   "repository": "https://github.com/silloi/vuepress-portfolio",
   "main": "index.js",
   "authors": {
-    "name": "Sillos Silloi",
+    "name": "NISHIYAMA Yudai",
     "email": "silloi1993@gmail.com"
   },
   "scripts": {

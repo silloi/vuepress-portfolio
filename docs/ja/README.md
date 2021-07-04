@@ -16,5 +16,5 @@ features:
     details: 行為論に焦点を当てた社会批評の執筆
   - title: 科学
     details: 放射化学を専攻、今は量子力学に興味
-footer: MIT Licensed | Copyright © 2021-present Sillos Silloi
+footer: MIT Licensed | Copyright © 2021-present NISHIYAMA Yudai
 ---

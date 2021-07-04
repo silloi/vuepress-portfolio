@@ -16,5 +16,5 @@ features:
     details: Writing Social Criticism focusing on Action Theory
   - title: Science
     details: Majored in Radiochemistry, now interested in Quantum Mechanics
-footer: MIT Licensed | Copyright © 2021-present Sillos Silloi
+footer: MIT Licensed | Copyright © 2021-present NISHIYAMA Yudai
 ---

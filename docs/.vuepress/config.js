@@ -1,7 +1,7 @@
 module.exports = {
   lang: 'en-US',
   title: 'Portfolio',
-  description: 'Portfolio of Silloi',
+  description: 'NISHIYAMA Yudai',
   head: [
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
@@ -11,13 +11,9 @@ module.exports = {
     // As a special case, the default locale can use '/' as its path.
     '/': {
       lang: 'en-US',
-      title: 'Portfolio',
-      description: 'Portfolio of Silloi',
     },
     '/ja/': {
       lang: 'ja-JP',
-      title: 'Portfolio',
-      description: 'Portfolio of Silloi',
     },
   },
   themeConfig: {
