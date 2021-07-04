@@ -47,6 +47,7 @@ module.exports = {
       },
       '/ja/': {
         selectLanguageName: '日本語',
+        selectLanguageText: '言語を選択',
         navbar: [
           // NavbarItem
           {
