@@ -1,7 +1,7 @@
 module.exports = {
   lang: 'en-US',
   title: 'Portfolio',
-  description: 'Portfolio of silloi',
+  description: 'Portfolio of Silloi',
   head: [
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
