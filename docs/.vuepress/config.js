@@ -34,6 +34,10 @@ module.exports = {
             text: 'Works',
             link: '/works/',
           },
+          {
+            text: 'Papers',
+            link: '/papers/',
+          },
           // // NavbarGroup
           // {
           //   text: 'Group',
@@ -52,6 +56,10 @@ module.exports = {
           {
             text: '著作物',
             link: '/ja/works/',
+          },
+          {
+            text: '論文',
+            link: '/ja/papers/',
           },
         ],
       },
