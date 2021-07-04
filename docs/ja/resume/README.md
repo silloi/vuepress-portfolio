@@ -45,7 +45,7 @@ Vue.js、Nuxt.js、TypeScriptを使ったWebアプリケーション開発を主
 
 Vue.js / Nuxt.js / React / Next.js / Svelte / Ruby on Rails / Django / HTML / CSS / TypeScript / JavaScript / Ruby / Python / UI/UX / CMS / Google Analytics / Git / Raspberry Pi / Arduino / macOS
 
-## Language
+## 言語
 
 - 日本語（母語）
 - 英語（ビジネス会話）
