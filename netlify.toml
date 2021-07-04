@@ -1,0 +1,5 @@
+[[redirects]]
+from = "https://silloi-vuepress-portfolio.netlify.app/*"
+to = "https://portfolio.silloi.com/:splat"
+status = 301
+force = true
