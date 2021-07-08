@@ -54,3 +54,7 @@ Vue.js / Nuxt.js / React / Next.js / Svelte / Ruby on Rails / Django / HTML / CS
 - Korean (Intermediate)
 - Chinese (Intermediate)
 - French (Beginner)
+
+## Contact
+
+silloi1993(atmark)gmail.com

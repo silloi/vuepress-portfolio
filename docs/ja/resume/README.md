@@ -35,7 +35,7 @@ Vue.js、Nuxt.js、TypeScriptを使ったWebアプリケーション開発を主
 - ファイナンシャル・プランニング技能士3級
 - 日商簿記検定試験3級
 - 中学校・高等学校教諭一種免許状（数学）
-- 基礎情報
+- 基本情報技術者試験
 - 甲種危険物取扱者免状
 - 漢語水平考試4級
 - 中国語検定3級
@@ -54,3 +54,7 @@ Vue.js / Nuxt.js / React / Next.js / Svelte / Ruby on Rails / Django / HTML / CS
 - 韓国語（日常会話）
 - 中国語（日常会話）
 - フランス語（初心者）
+
+## 連絡先
+
+silloi1993(atmark)gmail.com
