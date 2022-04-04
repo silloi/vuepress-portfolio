@@ -8,7 +8,9 @@ I am a Web Application Engineer, interested in efficient procedure and well-desi
 
 ## Experience
 
-### Web Engineer, teamLab Inc., Tokyo, Japan — April 2019 - Present
+### Engineer, Nota Inc., Kyoto, Japan — 2021.4 - Present
+
+### Web Engineer, teamLab Inc., Tokyo, Japan — April 2019 - March 2021
 
 I have developed web applications mainly with Vue.js, Nuxt.js and TypeScript. Since the second year I am often assigned as a team leader, so I have also dealt with the design and architecture of projects. Lately I push forward to introducing Composition API and establish composables abstracting the common processes. I am enthusiastic with realizing a simple and smart architecture so that our team can achieve development more efficiently.
 
