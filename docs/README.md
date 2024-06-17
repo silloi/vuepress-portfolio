@@ -11,10 +11,10 @@ actions:
     type: secondary
 features:
   - title: Engineering
-    details: Worked as a Web App Engineer for more than 2 years
+    details: Worked as a Web App Engineer for more than 5 years
   - title: Sociology
     details: Writing Social Criticism focusing on Action Theory
   - title: Science
-    details: Majored in Radiochemistry, now interested in Quantum Mechanics
+    details: Majored in Radiochemistry, now Interested in Quantum Mechanics
 footer: MIT Licensed | Copyright © 2021-present NISHIYAMA Yudai
 ---
